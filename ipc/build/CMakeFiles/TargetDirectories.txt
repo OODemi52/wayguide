@@ -1,0 +1,3 @@
+/Users/oodemi/Code/wayguide/ipc/build/CMakeFiles/ipc_comm.dir
+/Users/oodemi/Code/wayguide/ipc/build/CMakeFiles/edit_cache.dir
+/Users/oodemi/Code/wayguide/ipc/build/CMakeFiles/rebuild_cache.dir
